@@ -1,0 +1,29 @@
+{
+    "init_store": [
+        {
+            "store_id": 1,
+            "name": "spd_up_potion(one-use)",
+            "type": "item",
+            "id": 1,
+            "price": 20
+        },{
+            "store_id": 2,
+            "name": "slash_spell(one-use)",
+            "type": "item",
+            "id": 2,
+            "price": 40
+        },{
+            "store_id": 3,
+            "name": "spd_up(skill)",
+            "type": "skill",
+            "id": 1,
+            "price": 100
+        },{
+            "store_id": 4,
+            "name": "slash(skill)",
+            "type": "skill",
+            "id": 3,
+            "price": 100
+        }
+    ]
+}

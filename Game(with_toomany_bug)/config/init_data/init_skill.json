@@ -1,0 +1,28 @@
+{
+    "init_skill": [
+        {
+            "skill_id":1,
+            "name": "spd_up(skill)",
+            "type": "buff",
+            "desc": "spd",
+            "value": 1.2,
+            "duration": 2
+        },
+        {
+            "skill_id":2,
+            "name": "spd_down(skill)",
+            "type": "debuff",
+            "desc": "spd",
+            "value": 0.5,
+            "duration": 1
+        },
+        {
+            "skill_id":3,
+            "name": "slash(skill)",
+            "type": "attack",
+            "desc": "move",
+            "value": 1.5,
+            "duration": 0
+        }
+    ]
+}

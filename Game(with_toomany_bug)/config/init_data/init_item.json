@@ -1,0 +1,18 @@
+{
+    "init_item":[
+        {
+            "item_id": 1,
+            "name": "spd_up_potion(one-use)",
+            "skill": "spd_up",
+            "skill_id": 1,
+            "amount": 1
+        },
+        {
+            "item_id": 2,
+            "name": "slash_spell(one-use)",
+            "skill": "slash",
+            "skill_id": 3,
+            "amount": 1
+        }
+    ]
+}
